@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <Jars></Jars>
+  <ResolvedResourceDirectories>
+    <ResolvedResourceDirectory>/Users/henriquearaujo/Desktop/projetos/icon/app_pesquisa_analise/app_pesquisa_analise/app_pesquisa_analise.Droid/obj/Release/__library_projects__/iTextSharpLGPL-MonoForAndroid/library_project_imports/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/henriquearaujo/Desktop/projetos/icon/app_pesquisa_analise/app_pesquisa_analise/app_pesquisa_analise.Droid/obj/Release/__library_projects__/MPAndroidChart/library_project_imports/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/henriquearaujo/Desktop/projetos/icon/app_pesquisa_analise/app_pesquisa_analise/app_pesquisa_analise.Droid/obj/Release/__library_projects__/SQLite.Net.Platform.XamarinAndroid/library_project_imports/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/henriquearaujo/Desktop/projetos/icon/app_pesquisa_analise/app_pesquisa_analise/app_pesquisa_analise.Droid/obj/Release/__library_projects__/SQLitePCL.batteries/library_project_imports/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/henriquearaujo/Desktop/projetos/icon/app_pesquisa_analise/app_pesquisa_analise/app_pesquisa_analise.Droid/obj/Release/__library_projects__/SQLitePCL.raw/library_project_imports/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/henriquearaujo/Desktop/projetos/icon/app_pesquisa_analise/app_pesquisa_analise/app_pesquisa_analise.Droid/obj/Release/__library_projects__/SQLitePCLPlugin_esqlite3/library_project_imports/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/henriquearaujo/Desktop/projetos/icon/app_pesquisa_analise/app_pesquisa_analise/app_pesquisa_analise.Droid/obj/Release/__library_projects__/Xamarin.Forms.Platform/library_project_imports/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/henriquearaujo/Desktop/projetos/icon/app_pesquisa_analise/app_pesquisa_analise/app_pesquisa_analise.Droid/obj/Release/__library_projects__/Xamarin.Forms.Platform.Android/library_project_imports/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/henriquearaujo/Desktop/projetos/icon/app_pesquisa_analise/app_pesquisa_analise/app_pesquisa_analise.Droid/obj/Release/__library_projects__/XamiTextSharpLGPL.Droid/library_project_imports/res</ResolvedResourceDirectory>
+  </ResolvedResourceDirectories>
+  <ResolvedAssetDirectories>
+    <ResolvedAssetDirectory>obj/Release/__library_projects__/iTextSharpLGPL-MonoForAndroid/library_project_imports/assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj/Release/__library_projects__/MPAndroidChart/library_project_imports/assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj/Release/__library_projects__/SQLite.Net.Platform.XamarinAndroid/library_project_imports/assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj/Release/__library_projects__/SQLitePCL.batteries/library_project_imports/assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj/Release/__library_projects__/SQLitePCL.raw/library_project_imports/assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj/Release/__library_projects__/SQLitePCLPlugin_esqlite3/library_project_imports/assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj/Release/__library_projects__/Xamarin.Forms.Platform/library_project_imports/assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj/Release/__library_projects__/Xamarin.Forms.Platform.Android/library_project_imports/assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj/Release/__library_projects__/XamiTextSharpLGPL.Droid/library_project_imports/assets</ResolvedAssetDirectory>
+  </ResolvedAssetDirectories>
+  <ResolvedEnvironmentFiles />
+  <ResolvedResourceDirectoryStamps>
+    <ResolvedResourceDirectoryStamp>/Users/henriquearaujo/Desktop/projetos/icon/app_pesquisa_analise/app_pesquisa_analise/app_pesquisa_analise.Droid/obj/Release/__library_projects__/iTextSharpLGPL-MonoForAndroid.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/henriquearaujo/Desktop/projetos/icon/app_pesquisa_analise/app_pesquisa_analise/app_pesquisa_analise.Droid/obj/Release/__library_projects__/MPAndroidChart.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/henriquearaujo/Desktop/projetos/icon/app_pesquisa_analise/app_pesquisa_analise/app_pesquisa_analise.Droid/obj/Release/__library_projects__/SQLite.Net.Platform.XamarinAndroid.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/henriquearaujo/Desktop/projetos/icon/app_pesquisa_analise/app_pesquisa_analise/app_pesquisa_analise.Droid/obj/Release/__library_projects__/SQLitePCL.batteries.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/henriquearaujo/Desktop/projetos/icon/app_pesquisa_analise/app_pesquisa_analise/app_pesquisa_analise.Droid/obj/Release/__library_projects__/SQLitePCL.raw.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/henriquearaujo/Desktop/projetos/icon/app_pesquisa_analise/app_pesquisa_analise/app_pesquisa_analise.Droid/obj/Release/__library_projects__/SQLitePCLPlugin_esqlite3.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/henriquearaujo/Desktop/projetos/icon/app_pesquisa_analise/app_pesquisa_analise/app_pesquisa_analise.Droid/obj/Release/__library_projects__/Xamarin.Forms.Platform.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/henriquearaujo/Desktop/projetos/icon/app_pesquisa_analise/app_pesquisa_analise/app_pesquisa_analise.Droid/obj/Release/__library_projects__/Xamarin.Forms.Platform.Android.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/henriquearaujo/Desktop/projetos/icon/app_pesquisa_analise/app_pesquisa_analise/app_pesquisa_analise.Droid/obj/Release/__library_projects__/XamiTextSharpLGPL.Droid.stamp</ResolvedResourceDirectoryStamp>
+  </ResolvedResourceDirectoryStamps>
+</Paths>

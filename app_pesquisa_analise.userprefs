@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{3D9FF08F-273A-43B5-A683-4D4C4A703319}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="app_pesquisa_analise/app_pesquisa_analise/viewmodel/GraficosPageViewModel.cs">
+    <Files>
+      <File FileName="app_pesquisa_analise/app_pesquisa_analise/viewmodel/GraficosPageViewModel.cs" Line="41" Column="71" />
+      <File FileName="app_pesquisa_analise/app_pesquisa_analise.Droid/Utils/AndroidUtils.cs" Line="350" Column="29" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.app__pesquisa__analise.Droid PreferredExecutionTarget="Android.Nexus_5X_API_25_x86" />
+  <MultiItemStartupConfigurations />
+</Properties>
