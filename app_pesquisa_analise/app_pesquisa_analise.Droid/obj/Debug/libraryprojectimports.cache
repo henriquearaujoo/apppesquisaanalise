@@ -1,8 +1,38 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Paths>
   <Jars></Jars>
-  <ResolvedResourceDirectories />
-  <ResolvedAssetDirectories />
+  <ResolvedResourceDirectories>
+    <ResolvedResourceDirectory>\\Mac\Home\Desktop\projetos\A9\app_pesquisa_analise\app_pesquisa_analise\app_pesquisa_analise.Droid\obj\Debug\__library_projects__\iTextSharpLGPL-MonoForAndroid\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>\\Mac\Home\Desktop\projetos\A9\app_pesquisa_analise\app_pesquisa_analise\app_pesquisa_analise.Droid\obj\Debug\__library_projects__\MPAndroidChart\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>\\Mac\Home\Desktop\projetos\A9\app_pesquisa_analise\app_pesquisa_analise\app_pesquisa_analise.Droid\obj\Debug\__library_projects__\SQLite.Net.Platform.XamarinAndroid\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>\\Mac\Home\Desktop\projetos\A9\app_pesquisa_analise\app_pesquisa_analise\app_pesquisa_analise.Droid\obj\Debug\__library_projects__\SQLitePCL.batteries\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>\\Mac\Home\Desktop\projetos\A9\app_pesquisa_analise\app_pesquisa_analise\app_pesquisa_analise.Droid\obj\Debug\__library_projects__\SQLitePCL.raw\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>\\Mac\Home\Desktop\projetos\A9\app_pesquisa_analise\app_pesquisa_analise\app_pesquisa_analise.Droid\obj\Debug\__library_projects__\SQLitePCLPlugin_esqlite3\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>\\Mac\Home\Desktop\projetos\A9\app_pesquisa_analise\app_pesquisa_analise\app_pesquisa_analise.Droid\obj\Debug\__library_projects__\Xamarin.Forms.Platform.Android\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>\\Mac\Home\Desktop\projetos\A9\app_pesquisa_analise\app_pesquisa_analise\app_pesquisa_analise.Droid\obj\Debug\__library_projects__\Xamarin.Forms.Platform\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>\\Mac\Home\Desktop\projetos\A9\app_pesquisa_analise\app_pesquisa_analise\app_pesquisa_analise.Droid\obj\Debug\__library_projects__\XamiTextSharpLGPL.Droid\library_project_imports\res</ResolvedResourceDirectory>
+  </ResolvedResourceDirectories>
+  <ResolvedAssetDirectories>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\iTextSharpLGPL-MonoForAndroid\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\MPAndroidChart\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\SQLite.Net.Platform.XamarinAndroid\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\SQLitePCL.batteries\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\SQLitePCL.raw\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\SQLitePCLPlugin_esqlite3\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\Xamarin.Forms.Platform.Android\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\Xamarin.Forms.Platform\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\XamiTextSharpLGPL.Droid\library_project_imports\assets</ResolvedAssetDirectory>
+  </ResolvedAssetDirectories>
   <ResolvedEnvironmentFiles />
-  <ResolvedResourceDirectoryStamps />
+  <ResolvedResourceDirectoryStamps>
+    <ResolvedResourceDirectoryStamp>\\Mac\Home\Desktop\projetos\A9\app_pesquisa_analise\app_pesquisa_analise\app_pesquisa_analise.Droid\obj\Debug\__library_projects__\iTextSharpLGPL-MonoForAndroid.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>\\Mac\Home\Desktop\projetos\A9\app_pesquisa_analise\app_pesquisa_analise\app_pesquisa_analise.Droid\obj\Debug\__library_projects__\MPAndroidChart.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>\\Mac\Home\Desktop\projetos\A9\app_pesquisa_analise\app_pesquisa_analise\app_pesquisa_analise.Droid\obj\Debug\__library_projects__\SQLite.Net.Platform.XamarinAndroid.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>\\Mac\Home\Desktop\projetos\A9\app_pesquisa_analise\app_pesquisa_analise\app_pesquisa_analise.Droid\obj\Debug\__library_projects__\SQLitePCL.batteries.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>\\Mac\Home\Desktop\projetos\A9\app_pesquisa_analise\app_pesquisa_analise\app_pesquisa_analise.Droid\obj\Debug\__library_projects__\SQLitePCL.raw.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>\\Mac\Home\Desktop\projetos\A9\app_pesquisa_analise\app_pesquisa_analise\app_pesquisa_analise.Droid\obj\Debug\__library_projects__\SQLitePCLPlugin_esqlite3.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>\\Mac\Home\Desktop\projetos\A9\app_pesquisa_analise\app_pesquisa_analise\app_pesquisa_analise.Droid\obj\Debug\__library_projects__\Xamarin.Forms.Platform.Android.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>\\Mac\Home\Desktop\projetos\A9\app_pesquisa_analise\app_pesquisa_analise\app_pesquisa_analise.Droid\obj\Debug\__library_projects__\Xamarin.Forms.Platform.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>\\Mac\Home\Desktop\projetos\A9\app_pesquisa_analise\app_pesquisa_analise\app_pesquisa_analise.Droid\obj\Debug\__library_projects__\XamiTextSharpLGPL.Droid.stamp</ResolvedResourceDirectoryStamp>
+  </ResolvedResourceDirectoryStamps>
 </Paths>

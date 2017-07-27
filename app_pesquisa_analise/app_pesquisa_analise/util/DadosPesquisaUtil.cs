@@ -73,10 +73,14 @@ namespace app_pesquisa_analise.util
                 JObject obj = new JObject();
                 obj["idpesquisa06"] = idpesquisa06;
 
+                var pesquisador = Utils.ObterPesquisadorLogado();
+
+                obj["idcliente"] = pesquisador.idcliente;
+
                 List<CE_Filtro> filtros = daoFiltro.ObterFiltrosPorPesquisa(idpesquisa01);
 
                 var groupPergunta = filtros.GroupBy(o => o.idpesquisa04);
-
+                
                 JArray jFiltros = new JArray();
 
                 foreach (var item in groupPergunta)

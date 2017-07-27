@@ -50,6 +50,7 @@ namespace app_pesquisa_analise.componentes
                 node.BackgroundColor = Color.FromHex("#FFFFFF");
 
             StackLayout layoutCheck = new StackLayout();
+            layoutCheck.VerticalOptions = LayoutOptions.Center;
             layoutCheck.Padding = new Thickness(0, 0, 5, 0);
             Check = new CheckBoxView();
             Check.VerticalOptions = LayoutOptions.Center;
@@ -96,8 +97,9 @@ namespace app_pesquisa_analise.componentes
             }
             else
             {
+                String nomeOnda = ((CE_Pesquisa06)Obj).nome;
                 String descricao = DateTime.Parse(((CE_Pesquisa06)Obj).dtiniciopesquisa).ToString("dd/MM/yy") + " - " + DateTime.Parse(((CE_Pesquisa06)Obj).dtfimpesquisa).ToString("dd/MM/yy");
-                label.Text = descricao;
+                label.Text = nomeOnda + "\n" + descricao;
             }
 
             node.Children.Add(layoutLabel);
